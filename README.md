@@ -4,7 +4,8 @@ In this project we get the similarity of phases used in two similar sentences.
 Embedding
 
 1) Google News Vectors
-2) Create word word embedding using MSR corpse.
+2) Create word word embedding trained on Microsoft Research Paraphrase Corpse.We can also use 
+http://paraphrase.org/#/download.
 
 You can use one of the above embedding provided in the notebook.
 
